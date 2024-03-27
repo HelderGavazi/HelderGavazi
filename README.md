@@ -26,7 +26,7 @@ Current participant in Skills Bootcamp in Software Engineering (Fundamentals) an
 **Tech Talent Academy**
 Intensive (16-week) course, focusing on the fundamentals required of the Cyber industry.
 
-![cyberSecurityCourse](https://github.com/HelderGavazi/Helder_Paixao/blob/248eccf007d182de53e7e7e2ea31eb1e9f89f1dc/Screenshot%20(26).png)
+![cyberSecurityCourse](Screenshot%20(26).png)
 
 **I'm excited to share my projects and contributions with the GitHub community.  Join me as I embark on this transformative journey, embracing challenges, and striving for excellence in the ever-evolving realm of software development.**
 
