@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-**Note to Reviewer:**
-This code is designed to be run on Google Colab. Please review the code and execute it
-on Google Colab for accurate assessment.
-=======
 # Welcome to My GitHub Profile!
 
 **Hello there!** 
@@ -36,4 +31,4 @@ Intensive (16-week) course, focusing on the fundamentals required of the Cyber i
 **I'm excited to share my projects and contributions with the GitHub community.  Join me as I embark on this transformative journey, embracing challenges, and striving for excellence in the ever-evolving realm of software development.**
 
 <hr><br>
->>>>>>> parent of a868efb (update image link)
+
